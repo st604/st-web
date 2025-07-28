@@ -1,0 +1,22 @@
+body{
+    background-color: burlywood;
+}
+
+nav{
+    color: blueviolet;
+}
+h1{
+    color: black;
+}
+footer{
+    color: brown;
+}
+p{
+    color: red;
+}
+ul{
+    color: red;
+}
+header , body{
+    background-color: antiquewhite;
+}
